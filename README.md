@@ -1,4 +1,4 @@
-# fluttle_laravel_api
+# fluttler_laravel_api
 
 A new Flutter project.
 
